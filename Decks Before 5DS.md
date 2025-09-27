@@ -545,8 +545,8 @@ La strategia ruota attorno a **evocazioni rapide**, **controllo del backrow** e 
 * **Swarm WIND**: _Flying Kamakiri_ → _Silpheed_ → _Garuda_ → pressione costante.
 
 * **Controllo del ritmo**: usa _Harpie’s Hunting Ground_ e _Dust Tornado_ per mantenere il campo pulito.
-
-
+  
+  
 
 # [2006 Structure: Spellcaster's Judgment](https://duelingnexus.com/editor/8731b9b86534f64f66e71ec286643dbf)
 
@@ -591,3 +591,165 @@ La sua strategia ruota attorno al controllo del campo tramite **Magie**, **effet
 * **Controllo del ritmo**: _Breaker_ + _Magical Dimension_ = rimozione mirata e pressione.
 
 * **Evocazione strategica**: usa _Skilled Dark Magician_ per evocare _Dark Magician_ senza tributo.
+  
+  
+
+# [2007 Custom: Crystal Beast](https://duelingnexus.com/editor/9f480ed31b88f29f3f98c21f016e9538)
+
+<img title="" src="www/Rainbow.png" alt="Rainbow" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+La loro meccanica unica consiste nel **trasformarsi in carte Magia Continua** quando vengono distrutti, permettendo sinergie con _Rainbow Dragon_, _Rare Value_, _Crystal Blessing_ e _Crystal Beacon_.
+
+#### 💠 Setup delle Zone Magia
+
+* Quando un _Crystal Beast_ viene distrutto, va nella Zona Magia come Magia Continua.
+
+* _Sapphire Pegasus_ accelera il setup piazzando un Crystal direttamente dalla mano, Deck o cimitero.
+
+#### 🌈 Evocazione Rainbow Dragon
+
+* Quando hai **7 Crystal Beast con nomi diversi** nella Zona Magia o nel cimitero, puoi evocare _Rainbow Dragon_.
+
+* _Crystal Blessing_ e _Crystal Beacon_ aiutano a recuperare e evocare.
+
+#### 💥 Controllo e utility
+
+* _Topaz Tiger_ guadagna ATK in battaglia, _Amber Mammoth_ protegge altri Crystal.
+
+* _Rare Value_ ti fa pescare 2 carte se l’avversario sceglie un Crystal da distruggere.
+
+* _Crystal Abundance_ può spazzare il campo e evocare fino a 4 Crystal Beast!
+  
+  
+
+# [2007 Custom: Gladiator Beast](https://duelingnexus.com/editor/b51ed43c9536e899751b0978d3187a48)
+
+<img title="" src="www/Gladiator.png" alt="Gladiator" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+La loro forza sta nella **meccanica di rientro nel Deck** dopo il combattimento, che permette di evocare altri Gladiatori con effetti devastanti, inclusi **Fusion Contact** come _Gladiator Beast Gyzarus_.
+
+#### ⚔️ Battaglia e rientro
+
+* Attacca con _Laquari_, _Bestiari_, _Dimacari_ o _Cyber Dragon_.
+
+* Dopo il combattimento, rientra nel Deck per evocare _Murmillo_ (rimozione mostri), _Darius_ (recupero), _Hoplomus_ (difesa), _Bestiari_ (setup Gyzarus).
+
+#### 💥 Fusion Contact
+
+* _Bestiari_ + qualsiasi Gladiator = _Gyzarus_, che distrugge fino a 2 carte sul campo.
+
+* _Darius_ + _Laquari_ + _Bestiari_ = _Heraklinos_, boss monster che annulla magie/trappole.
+
+#### 🛡️ Protezione e setup
+
+* _Waboku_ ti permette di attaccare senza rischi e attivare gli effetti di rientro.
+
+* _Gladiator Proving Ground_ cerca qualsiasi Gladiator Beast.
+
+* _Test Tiger_ accelera il ciclo di rientro anche senza battaglia.
+  
+  
+
+# [2007 Starter: Jaden Yuki](https://duelingnexus.com/editor/1c851da6fb815e3ace6fcf3a8f6ed8e7)
+
+<img title="" src="www/Necroshade.png" alt="Necroshade" width="100" height="146" data-align="inline">
+
+# [2007 Starter: Syrus Truesdale](https://duelingnexus.com/editor/a38721fa2f0f1914504ddb3b03d2f6cb)
+
+<img title="" src="www/Expressroid.png" alt="Expressroid" width="100" height="146" data-align="inline">
+
+# [2007 Structure: Machine Re-Volt](https://duelingnexus.com/editor/651fa12da2be0a417a25ae3c60389d4b)
+
+<img title="" src="www/Ancient-Gear.png" alt="Ancient-Gear" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+La strategia ruota attorno a **evocazioni tributo potenti**, **attacchi diretti senza risposta**, e **controllo del backrow**. È perfetto per uno stile di gioco aggressivo e inarrestabile.
+
+#### 🛠️ Strategia Principale: Gear Beatdown + Backrow Suppression
+
+* **Carta chiave**: _Ancient Gear Golem_
+  
+  * 3000 ATK, infligge danni piercing, e impedisce all’avversario di attivare Magie/Trappole durante l’attacco.
+  
+  * Può essere evocato tramite _Ancient Gear Castle_ o _Ancient Gear Drill_.
+
+* **Obiettivo**: Evocare _Ancient Gear Golem_ rapidamente, attaccare senza interferenze, e mantenere pressione costante.
+
+#### ⚙️ Supporto Machine e Gear
+
+* _Ancient Gear Beast_: nega effetti di mostri durante il combattimento.
+
+* _Ancient Gear Engineer_: distrugge una Magia/Trappola quando attacca.
+
+* _Ancient Gear Soldier_: impedisce attivazioni durante l’attacco → utile per early game.
+
+#### 🧰 Magie e Trappole Chiave
+
+* _Ancient Gear Castle_: accumula segnalini per evocare mostri Gear senza tributo.
+
+* _Ancient Gear Drill_: ti permette di settare una Magia direttamente dal mazzo → vantaggio tattico.
+
+* _Limiter Removal_: raddoppia l’ATK di tutti i tuoi Machine → chiusura esplosiva.
+
+* _Rare Metalmorph_: boost ATK e protezione da Magie → sinergia con attacco diretto.
+
+#### 🧠 Tattiche Consigliate
+
+* **Evocazione rapida**: _Ancient Gear Castle_ + evocazioni normali → _Ancient Gear Golem_ in pochi turni.
+
+* **Attacco sicuro**: tutti i Gear impediscono attivazioni durante l’attacco → pressione costante.
+
+* **Chiusura esplosiva**: _Limiter Removal_ + _Ancient Gear Golem_ = fino a 6000 ATK → OTK potenziale.
+  
+  
+
+# [2007 Structure: Rise of the Dragon Lords](https://duelingnexus.com/editor/9f2125283f1eedfc0155c1109940e447)
+
+<img title="" src="www/Felgrand.png" alt="loading-ag-2092" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+La strategia ruota attorno a evocazioni tributo, controllo del Cimitero e attacchi potenti.
+
+#### 🐲 Strategia Principale: Resurrection Beatdown
+
+* **Carta chiave**: _Felgrand Dragon__
+  
+  * guadagna ATK dal Cimitero → ottimo boss monster.
+
+#### ⚰️ Controllo del Cimitero
+
+* _Paladin of Felgrand_: cerca _Felgrand Dragon_ e si equipaggia → sinergia con evocazioni.
+
+* _Dragonic Tactics_: tributa due mostri per evocare un Drago di Livello 7+ → attiva Felgrand.
+
+* _Trade-In_: scarta un mostro di Livello 8 per pescare 2 carte → accelera il setup.
+
+#### 🧱 Supporto Draconico
+
+* 
+
+* _Red-Eyes Darkness Metal Dragon_ (se aggiunto): evoca Draghi dal Cimitero → swarm continuo.
+
+* _Kaibaman_ (opzionale): evoca _Blue-Eyes White Dragon_ → attiva Felgrand.
+
+#### 🧰 Magie e Trappole Chiave
+
+* _Soul Exchange_: tributa un mostro avversario per evocare → attiva Felgrand.
+
+* _Return from the Different Dimension_: riporta in campo Draghi banditi → chiusura esplosiva.
+
+* _Silent Doom_: evoca un mostro dal Cimitero in posizione difensiva → setup per tributo.
+
+#### 🧠 Tattiche Consigliate
+
+* **Combo Felgrand**: usa _Dragonic Tactics_ → evoca Drago → attiva _Divine Dragon Lord Felgrand_ dal Cimitero.
+
+* **Cimitero attivo**: _Trade-In_ + _Paladin of Felgrand_ = setup rapido.
+
+* **Controllo campo**: Felgrand nega effetti e guadagna ATK → pressione costante.
