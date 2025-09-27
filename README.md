@@ -1,0 +1,2 @@
+# YuGiOH
+List of decks
