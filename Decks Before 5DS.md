@@ -385,3 +385,209 @@ La strategia ruota attorno al controllo del Cimitero, evocazioni potenti e ricic
 * **Riciclo Zombie**: _Vampire Genesis_ + _Book of Life_ = recupero continuo.
 
 * **Controllo del ritmo**: _Vampire Lord_ forza l’avversario a scartare carte dal mazzo → pressione psicologica.
+  
+  
+
+# [2006 Custom: Kuriboh](https://duelingnexus.com/editor/c884522829d1f3d043f89ae970fbd369)
+
+<img title="" src="www/Kuriboh.png" alt="Kuriboh" width="100" height="146">
+
+### 🔍 **Strategia**
+
+* **Difesa totale**: _Kuriboh_, _Winged Kuriboh_, _Waboku_, _Draining Shield_, _Messenger of Peace_ e _Level Limit_ ti proteggono a lungo.
+
+* **Combo finale**: _Transcendent Wings_ + _Winged Kuriboh_ = _Winged Kuriboh LV10_, che può **spazzare via tutti i mostri avversari**.
+
+* **Riciclo e pesca**: _Pot of Greed_, _Graceful Charity_, _Card Destruction_, _Morphing Jar_, _Cyber Jar_, _Skelengel_ e _Dark Mimic_ ti aiutano a pescare e cercare.
+
+* **Supporto toolbox**: _Sangan_, _Mystic Tomato_, _Shining Angel_ e _Hero Signal_ ti permettono di cercare Kuriboh e Winged Kuriboh.
+  
+  
+
+# [2006 Starter: Starter Deck](https://duelingnexus.com/editor/5ee8ae1ed352c0edb83972f34ac63403)
+
+<img title="" src="www/Bladedge.png" alt="Bladedge" width="100" height="146">
+
+# [2006 Structure: Dinosaurs' Rage](https://duelingnexus.com/editor/70a1bbeb5f56f4506ffcbf8445955fb0)
+
+<img title="" src="www/Tyranno.png" alt="Tyranno" width="100" height="146">
+
+### 🔍 Strategia
+
+La sua strategia ruota attorno a evocazioni tributo rapide, danni da effetto e pressione offensiva.
+
+#### 🦕 Strategia Principale: Dino Beatdown + Burn
+
+* **Carta chiave**: _Super Conductor Tyranno_
+  
+  * 3300 ATK e può infliggere 1000 danni mandando un mostro in Difesa al Cimitero.
+  
+  * Ottimo per chiudere i duelli rapidamente.
+
+* **Obiettivo**: Riempire il campo con dinosauri, evocare _Super Conductor Tyranno_, e infliggere danni diretti e da effetto.
+
+#### 🧱 Supporto e Accelerazione
+
+* _Hydrogeddon_: si evoca da solo se distrugge un mostro → swarm rapido.
+
+* _Black Stego_: difensore solido, utile per tributi.
+
+* _Fossil Excavation_: recupera dinosauri dal Cimitero → riciclo continuo.
+
+* _Jurassic World_: potenzia tutti i dinosauri di 300 ATK → pressione costante.
+
+#### 🧠 Controllo del Campo
+
+* _Tail Swipe_: rimbalza mostri avversari se controlli dinosauri di Livello 5+.
+
+* _Big Evolution Pill_: ti permette di evocare dinosauri di Livello 5+ senza tributo per 3 turni → chiave per _Super Conductor Tyranno_.
+
+* _Ultimate Tyranno_ (se aggiunto): attacca tutti i mostri avversari → devastazione totale.
+
+#### 🔄 Tattiche Consigliate
+
+* **Combo rapida**: _Hydrogeddon_ → swarm → _Big Evolution Pill_ → _Super Conductor Tyranno_ → burn + attacco diretto.
+
+* **Controllo difensivo**: usa _Black Stego_ e _Fossil Excavation_ per mantenere campo e risorse.
+
+* **Burn tattico**: manda mostri in Difesa al Cimitero con _Super Conductor Tyranno_ per infliggere 1000 danni → chiusura rapida.
+  
+  
+
+# [2006 Structure: Invincible Fortress](https://duelingnexus.com/editor/eefdf90802477c72185880ef898f1128)
+
+<img title="" src="www/Exxod.png" alt="Exxod" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+La sua strategia ruota attorno al **controllo del campo**, **difesa impenetrabile** e **rimozione tattica**. È perfetto per chi ama giocare in modo paziente e strategico.
+
+#### 🧱 Strategia Principale: Wall Control + Flip Reset
+
+* **Carta chiave**: _Guardian Sphinx_
+  
+  * Può far tornare tutti i mostri avversari in mano quando viene scoperto.
+  
+  * Può essere rimesso in posizione coperta ogni turno → effetto riciclabile.
+
+* **Obiettivo**: Costruire una difesa solida, usare effetti flip per controllare il campo, e vincere per esaurimento o attacchi mirati.
+
+#### 🪨 Mostri Difensivi e Flip
+
+* _Sand Moth_: si trasforma in un mostro potente se distrutto coperto.
+
+* _Medusa Worm_: distrugge un mostro avversario ogni volta che viene scoperto.
+
+* _Golem Sentry_: rimanda un mostro avversario in mano → effetto riciclabile.
+
+* _Stone Statue of the Aztecs_: infligge danni raddoppiati se attaccata in Difesa.
+
+#### 🧰 Magie e Trappole di Supporto
+
+* _Shield & Sword_: scambia ATK e DEF → utile per mostri con alta difesa.
+
+* _Rock Bombardment_: manda un mostro ROCK dal mazzo al Cimitero e infligge 500 danni.
+
+* _Minefieldriller_: recupera Magie/Trappole dal Cimitero se un mostro ROCK è distrutto.
+
+* _Ultimate Offering_: ti permette di evocare più mostri → utile per flip chain.
+
+#### 🧠 Tattiche Consigliate
+
+* **Flip loop**: _Guardian Sphinx_ + _Golem Sentry_ = reset continuo del campo avversario.
+
+* **Difesa attiva**: _Medusa Worm_ e _Stone Statue_ puniscono chi attacca.
+
+* **Controllo del ritmo**: rallenta l’avversario, forza errori, e punisci con rimozioni mirate.
+  
+  
+
+# [2006 Structure: Lord of the Storm](https://duelingnexus.com/editor/8b665593661b866d0243766a5c0fce3e)
+
+<img title="" src="www/Harpie.png" alt="Harpie" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+La strategia ruota attorno a **evocazioni rapide**, **controllo del backrow** e **danni passivi**, sfruttando la mobilità e gli effetti fastidiosi dei mostri WIND.
+
+#### 🕊️ Strategia Principale: WIND Control + Burn
+
+* **Carta chiave**: _Simorgh, Bird of Divinity_
+  
+  * Infligge 1000 danni ogni volta che l’avversario pesca durante la sua Draw Phase se non ha Magie/Trappole sul campo.
+  
+  * Ottimo per punire avversari che non proteggono il loro campo.
+
+* **Obiettivo**: Evocare _Simorgh_, svuotare il backrow avversario, e infliggere danni passivi ogni turno.
+
+#### 💨 Supporto WIND e Rimozione
+
+* _Silpheed_: si evoca rimuovendo un WIND dal Cimitero → ottimo per swarm.
+
+* _Garuda the Wind Spirit_: simile a _Silpheed_, ma con effetto di rimbalzo.
+
+* _Flying Kamakiri #1_: cerca altri WIND dal mazzo → accelera il setup.
+
+* _Harpie’s Hunting Ground_: distrugge Magie/Trappole ogni volta che evochi un Harpie → sinergia con _Simorgh_.
+
+#### 🧰 Magie e Trappole di Supporto
+
+* _Mystical Space Typhoon_ e _Dust Tornado_: rimuovono Magie/Trappole → attiva l’effetto di _Simorgh_.
+
+* _Rush Recklessly_ e _Trap Jammer_: protezione durante la Battle Phase.
+
+* _Swords of Revealing Light_: rallenta l’avversario mentre prepari il campo.
+
+#### 🧠 Tattiche Consigliate
+
+* **Burn passivo**: _Simorgh_ + rimozione backrow = 1000 danni ogni turno.
+
+* **Swarm WIND**: _Flying Kamakiri_ → _Silpheed_ → _Garuda_ → pressione costante.
+
+* **Controllo del ritmo**: usa _Harpie’s Hunting Ground_ e _Dust Tornado_ per mantenere il campo pulito.
+
+
+
+# [2006 Structure: Spellcaster's Judgment](https://duelingnexus.com/editor/8731b9b86534f64f66e71ec286643dbf)
+
+<img title="" src="www/Dark.png" alt="Dark" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+La sua strategia ruota attorno al controllo del campo tramite **Magie**, **effetti di punizione**, e **versatilità tattica**. È perfetto per chi ama giocare in modo reattivo e intelligente.
+
+#### 🧠 Strategia Principale: Magia + Punizione
+
+* **Carta chiave**: _Dark Eradicator Warlock_
+  
+  * Infligge 1000 danni ogni volta che attivi una Magia.
+  
+  * Ottimo per burn passivo e pressione psicologica.
+
+* **Obiettivo**: Riempire il mazzo di Magie utili, evocare _Warlock_, e infliggere danni ogni turno mentre controlli il campo.
+
+#### 🪄 Supporto Spellcaster
+
+* _Skilled Dark Magician_: Guadagna segnalini ogni volta che una Magia viene attivata → può evocare _Dark Magician_.
+
+* _Magician of Faith_: recupera Magie dal Cimitero → sinergia con _Warlock_.
+
+* _Breaker the Magical Warrior_: distrugge Magie/Trappole → controllo del backrow.
+
+#### 📚 Magie e Trappole Chiave
+
+* _Mystical Space Typhoon_ e _Heavy Storm_: rimozione backrow → attivano l’effetto di _Warlock_.
+
+* _Swords of Revealing Light_: rallenta l’avversario → tempo per setup.
+
+* _Magical Dimension_: tributa un mostro Spellcaster per evocare un altro e distruggere un mostro avversario → sorpresa tattica.
+
+* _Spell Absorption_: guadagni LP ogni volta che attivi una Magia → sinergia con _Warlock_.
+
+#### 🧠 Tattiche Consigliate
+
+* **Burn passivo**: _Dark Eradicator Warlock_ + _Spell Absorption_ = danni all’avversario e recupero LP.
+
+* **Controllo del ritmo**: _Breaker_ + _Magical Dimension_ = rimozione mirata e pressione.
+
+* **Evocazione strategica**: usa _Skilled Dark Magician_ per evocare _Dark Magician_ senza tributo.
