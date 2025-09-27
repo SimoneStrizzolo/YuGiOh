@@ -732,8 +732,6 @@ La strategia ruota attorno a evocazioni tributo, controllo del Cimitero e attacc
 
 #### 🧱 Supporto Draconico
 
-* 
-
 * _Red-Eyes Darkness Metal Dragon_ (se aggiunto): evoca Draghi dal Cimitero → swarm continuo.
 
 * _Kaibaman_ (opzionale): evoca _Blue-Eyes White Dragon_ → attiva Felgrand.
@@ -753,3 +751,123 @@ La strategia ruota attorno a evocazioni tributo, controllo del Cimitero e attacc
 * **Cimitero attivo**: _Trade-In_ + _Paladin of Felgrand_ = setup rapido.
 
 * **Controllo campo**: Felgrand nega effetti e guadagna ATK → pressione costante.
+  
+  
+
+# [2008 Custom: Dark World](https://duelingnexus.com/editor/fa7ac3b4df0fc090011cb6bed5377070)
+
+<img title="" src="www/Sillva.png" alt="loading-ag-3264" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+La meccanica chiave è scartare i mostri _Dark World_ per attivare i loro potenti effetti.
+
+* **Scarta per attivare**: Usa _Dark World Dealings_, _Dragged Down into the Grave_ e _Morphing Jar_ per scartare i mostri Dark World e attivarne gli effetti.
+
+* **Evocazioni rapide**: _Goldd_ e _Sillva_ si evocano specialmente se scartati da effetto avversario—crea pressione sul campo e rimuovi risorse.
+
+* **Controllo mano avversaria**: Con _Don Zaloog_, _Spirit Reaper_ e _Sillva_, puoi svuotare la mano nemica e rallentare la sua strategia.
+
+* **Riciclo e vantaggio**: _Broww_ e _The Forces of Darkness_ mantengono il flusso di carte e ti permettono di recuperare risorse chiave.
+
+* **Tech surprise**: _Gren Maju Da Eiza_ può diventare un finisher se integri rimozione massiva—valuta _Soul Release_ o _Dimensional Fissure_ se vuoi esplorare questa variante.
+  
+  
+
+# [2008 Custom: Destiny HERO](https://duelingnexus.com/editor/a8b91a37ca3d000836fae0f80999073b)
+
+<img title="" src="www/Destiny.png" alt="Destiny" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+* **Controllo del tempo**: Usa _Destiny HERO - Disk Commander_ e _Draw Engine_ (come _Card Trooper_ e _Reinforcement of the Army_) per pescare e accelerare il setup.
+
+* **Vantaggio passivo**: _Destiny HERO - Defender_ e _Fear Monger_ mantengono presenza sul campo e ti aiutano a recuperare risorse senza sprecare carte.
+
+* **Recupero e riciclo**: _Destiny Draw_ e _Monster Reincarnation_ ti permettono di scartare e riprendere le carte chiave, migliorando la qualità della mano.
+
+* **Controllo del campo**: _Plasma_ e _Dogma_ sono boss monster che rubano effetti o infliggono danni diretti, ideali per chiudere partite o ribaltare la situazione.
+
+* **Sinergia con tributi e revival**: _Fires of Doomsday_, _Foolish Burial_ e _Premature Burial_ facilitano evocazioni tributo e combo con _Disk Commander_.
+  
+  
+
+# [2008 Custom: Elementar HERO](https://duelingnexus.com/editor/b51387e437bb2d64fd132f15e8e6acfe)
+
+<img title="" src="www/Elemental.png" alt="Elemental" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+* **Evocazioni Fusion rapide**: Usa _Polymerization_, _Fusion Sage_ e _Fusion Recovery_ per evocare _Elemental HERO Flame Wingman_, _Thunder Giant_ e altri fusion HERO velocemente.
+
+* **Setup con tutor e ricerca**: _E - Emergency Call_, _Reinforcement of the Army_ e _Skyscraper_ aiutano a trovare gli HERO giusti e potenziare gli attacchi.
+
+* **Controllo del campo**: _Thunder Giant_ distrugge mostri con ATK inferiore, _Flame Wingman_ infligge danni diretti—entrambi creano pressione costante.
+
+* **Supporto difensivo e riciclo**: _Hero Signal_, _Negate Attack_ e _Fusion Recovery_ mantengono la difesa e ti fanno recuperare risorse chiave.
+
+* **Sinergia con campo e nome HERO**: Molte carte si attivano solo se controlli un HERO o un campo specifico—mantieni almeno un HERO sul terreno per sfruttare tutto il potenziale.
+  
+  
+
+# [2008 Custom: Six Samurai](https://duelingnexus.com/editor/8a29d7eff1fd8cea5cb3328d6ca366ab)
+
+<img title="" src="www/Six-Samurai.png" alt="Six-Samurai" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+* **Evocazioni rapide e presenza sul campo**: I Six Samurai si evocano facilmente in massa grazie ai loro effetti condizionali—*mantieni sempre almeno 2 sul terreno per attivare abilità bonus.*
+
+* **Controllo e rimozione**: _Irou_ distrugge mostri coperti, _Yariza_ attacca direttamente, _Zanji_ elimina avversari in battaglia—ogni Samurai ha una funzione tattica.
+
+* **Protezione reciproca**: Se uno Samurai sta per essere distrutto, puoi sacrificare un altro—questo crea resilienza e ti permette di mantenere pressione.
+
+* **Supporto da campo e magie**: _Shien’s Castle of Mist_, _The A. Forces_ e _Reinforcement of the Army_ potenziano gli ATK e facilitano la ricerca, rendendo il mazzo più consistente.
+
+* **Sinergia con tributi e boss monster**: Carte come _Fires of Doomsday_ e _Grandmaster of the Six Samurai_ permettono tributi rapidi e recupero strategico.
+
+
+
+# [2008 Structure: The Dark Emperor](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
+
+<img title="" src="www/Monarch.png" alt="Monarch" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+La strategia ruota attorno al controllo del campo tramite **tributi**, **rimozione mirata**, e **sinergie con il banish**. È perfetto per uno stile di gioco che combina potenza e precisione.
+
+#### 🕳️ Strategia Principale: Monarch Control + Banish Synergy
+
+* **Carta chiave**: _Caius the Shadow Monarch_
+  
+  * Quando viene evocato tramite tributo, può bandire una carta sul campo.
+  
+  * Se è una carta Oscurità, infligge 1000 danni → rimozione + burn.
+
+* **Obiettivo**: Evocare _Caius_ e altri Monarch per controllare il campo, sfruttare effetti di rimozione e generare vantaggio.
+
+#### 🧱 Supporto e Accelerazione
+
+* _D.D. Survivor_: torna in campo alla fine del turno se è stato bandito → ottimo per tributi riciclabili.
+
+* _D.D. Scout Plane_: simile a _Survivor_, ma torna solo se bandito da effetto.
+
+* _Banisher of the Radiance_: ogni carta mandata al Cimitero viene invece bandita → sinergia con _Survivor_ e _Scout Plane_.
+
+#### 🧰 Magie e Trappole Chiave
+
+* _Soul Exchange_: tributa un mostro avversario per evocare _Caius_ → rimozione doppia.
+
+* _Dimensional Fissure_: ogni mostro mandato al Cimitero viene bandito → attiva _Survivor_ e _Scout Plane_.
+
+* _Brain Control_: prendi il controllo di un mostro avversario → tributo per _Caius_.
+
+* _Escape from the Dark Dimension_: riporta in campo un mostro Oscurità bandito → recupero tattico.
+
+#### 🧠 Tattiche Consigliate
+
+* **Tributo intelligente**: usa _Soul Exchange_ o _Brain Control_ per evocare _Caius_ senza perdere risorse.
+
+* **Loop banish**: _Dimensional Fissure_ + _D.D. Survivor_ = tributo infinito.
+
+* **Controllo campo**: _Caius_ + _Banisher_ = rimozione continua e negazione del Cimitero.
