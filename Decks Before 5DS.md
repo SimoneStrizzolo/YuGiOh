@@ -37,7 +37,7 @@ Sono stati considerati tutti i deck pubblicati in Italia dal 2002 a maggio 2008 
 
 # [2003 Custom: XYZ Union](https://duelingnexus.com/editor/501f581eeab7e832ee024e9362729d92)
 
-<img title="" src="www/XYZ.png" alt="XYZ" width="0" height="">
+<img title="" src="www/XYZ.png" alt="XYZ" width="100" height="146">
 
 ### 🔍 Strategia
 
@@ -70,7 +70,7 @@ Sono stati considerati tutti i deck pubblicati in Italia dal 2002 a maggio 2008 
 
 # [2004 Custom: CHAOS](https://duelingnexus.com/editor/582e2dd409eb99ac2853c8255c64a138)
 
-<img title="" src="www/Chaos.png" alt="CHAOS" width="0" height="">
+<img title="" src="www/Chaos.png" alt="CHAOS" width="100" height="146">
 
 ### 🔍 Strategia
 
@@ -108,7 +108,7 @@ Questo stile di mazzo sfrutta l’alternanza tra mostri LUCE e OSCURITÀ per evo
 
 # [2004 Starter: Yugi Evolution](https://duelingnexus.com/editor/2d44f5c60560dfbdde0a5c06fbe3a158)
 
-<img title="" src="www/Black-Luster-Soldier.png" alt="Black-Luster-Soldier" width="0" height="">
+<img title="" src="www/Black-Luster-Soldier.png" alt="Black-Luster-Soldier" width="100" height="146">
 
 # [2005 Custom: Exodia Necross](https://duelingnexus.com/editor/dd8b57f12430005dac17b0dbaae37eab)
 
