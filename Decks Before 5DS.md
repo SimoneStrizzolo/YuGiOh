@@ -115,6 +115,7 @@ Questo stile di mazzo sfrutta l’alternanza tra mostri LUCE e OSCURITÀ per evo
 <img title="" src="www/Exodia-Necross.png" alt="Exodia" width="100" height="146">
 
 ### 🔍 **Strategia**
+Nota: un deck puro Exodia sarebbe noioso da giocare, in quanto l'unico obiettivo sarebbe quello di pescare carte senza permettere all'avversario di giocare (strategia OTK, one-turn-kill).
 
 * **Obiettivo**: mandare tutte e 5 le parti di Exodia al cimitero per evocare _Exodia Necross_ con _Contract with Exodia_.
 
