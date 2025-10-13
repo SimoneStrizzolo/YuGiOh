@@ -6,9 +6,13 @@ Sono stati considerati tutti i deck pubblicati in Italia dal 2002 a maggio 2008 
 
 ![loading-ag-633](www/Blue-Eyes.png)
 
+
+
 # [2002 Starter: Yugi](https://duelingnexus.com/editor/dbd263b0d940eabfea33fd0af75c2cfd)
 
 <img title="" src="www/Dark-Magician.png" alt="Dark-Magician" width="100" height="146">
+
+
 
 # [2003 Custom: Gravekeeper's](https://duelingnexus.com/editor/56053234876437efa3ea71886fc52007)
 
@@ -64,9 +68,13 @@ Sono stati considerati tutti i deck pubblicati in Italia dal 2002 a maggio 2008 
 
 <img title="" src="www/Red-Eyes.png" alt="Red-Eyes" width="100" height="146">
 
+
+
 # [2003 Starter: Pegasus](https://duelingnexus.com/editor/239abb0ff17965d4fdfb45f70ecb2ecd)
 
 <img title="" src="www/Relinquished.png" alt="Relinquished" width="100" height="146">
+
+
 
 # [2004 Custom: CHAOS](https://duelingnexus.com/editor/582e2dd409eb99ac2853c8255c64a138)
 
@@ -99,22 +107,57 @@ Questo stile di mazzo sfrutta l’alternanza tra mostri LUCE e OSCURITÀ per evo
 * _Allure of Darkness_, _Pot of Greed_, _Graceful Charity_, _Card Destruction_ = turbo draw.
 
 * _Premature Burial_ e _Call of the Haunted_ rianimano boss o utility.
-  
-  
+
+
+
+# [2003 Custom: Great Moth](https://duelingnexus.com/editor/632dbdde6f1be16b87d944aac7ddc458)
+
+<img title="" src="www/Moth.png" alt="loading-ag-2787" width="100" height="146">
+
+### 🔍 Strategia
+
+#### 🐛 Evocazione della Grande Falena
+
+* _Petit Moth_ deve essere equipaggiato con _Cocoon of Evolution_ e **restare sul campo per 4 turni** per evocare _Perfectly Ultimate Great Moth_.
+
+* _Forest_ e _Waboku_ aiutano a proteggerlo.
+
+* _Creature Swap_ può scambiare _Petit Moth_ con un mostro avversario per stall.
+
+#### 🧠 Toolbox insetti
+
+* _Pinch Hopper_ evoca insetti dalla mano.
+
+* _Howling Insect_ recluta _Petit Moth_ o _Man-Eater Bug_.
+
+* _Insect Princess_ può diventare boss alternativa se _Moth_ non arriva.
+
+#### ♻️ Supporto e difesa
+
+* _Pot of Greed_, _Graceful Charity_, _Morphing Jar_ = draw engine.
+
+* _Breaker_, _Phoenix Wing_, _Mirror Force_, _Torrential_ = controllo.
+
+
 
 # [2004 Starter: Kaiba Evolution](https://duelingnexus.com/editor/095460c46c9ec4ba1e65e8a1bbb00372)
 
 <img title="" src="www/Blue-Eyes-2.png" alt="Blue-Eyes-2" width="100" height="146">
 
+
+
 # [2004 Starter: Yugi Evolution](https://duelingnexus.com/editor/2d44f5c60560dfbdde0a5c06fbe3a158)
 
 <img title="" src="www/Black-Luster-Soldier.png" alt="Black-Luster-Soldier" width="100" height="146">
+
+
 
 # [2005 Custom: Exodia Necross](https://duelingnexus.com/editor/dd8b57f12430005dac17b0dbaae37eab)
 
 <img title="" src="www/Exodia-Necross.png" alt="Exodia" width="100" height="146">
 
 ### 🔍 **Strategia**
+
 Nota: un deck puro Exodia sarebbe noioso da giocare, in quanto l'unico obiettivo sarebbe quello di pescare carte senza permettere all'avversario di giocare (strategia OTK, one-turn-kill).
 
 * **Obiettivo**: mandare tutte e 5 le parti di Exodia al cimitero per evocare _Exodia Necross_ con _Contract with Exodia_.
@@ -826,8 +869,8 @@ La meccanica chiave è scartare i mostri _Dark World_ per attivare i loro potent
 * **Supporto da campo e magie**: _Shien’s Castle of Mist_, _The A. Forces_ e _Reinforcement of the Army_ potenziano gli ATK e facilitano la ricerca, rendendo il mazzo più consistente.
 
 * **Sinergia con tributi e boss monster**: Carte come _Fires of Doomsday_ e _Grandmaster of the Six Samurai_ permettono tributi rapidi e recupero strategico.
-
-
+  
+  
 
 # [2008 Structure: The Dark Emperor](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
 
@@ -872,3 +915,65 @@ La strategia ruota attorno al controllo del campo tramite **tributi**, **rimozio
 * **Loop banish**: _Dimensional Fissure_ + _D.D. Survivor_ = tributo infinito.
 
 * **Controllo campo**: _Caius_ + _Banisher_ = rimozione continua e negazione del Cimitero.
+  
+  
+
+# [2008 Custom: Cyber Dragon](https://duelingnexus.com/editor/d56377edee283851d980df492e071918)
+
+<img title="" src="www/Cyber-End.png" alt="Cyber-End" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+#### ⚡ Cyber Core
+
+* _Cyber Dragon_ è evocabile special se l’avversario ha mostri e tu no.
+
+* _Proto-Cyber Dragon_ + _Hex-Sealed Fusion_ ti permettono Fusion rapide.
+
+* _Power Bond_ evoca _Cyber Twin_ o _Cyber End_ con ATK raddoppiato (rischio burn).
+
+#### 💥 OTK Setup
+
+* _Future Fusion_ + _Overload Fusion_ = _Chimeratech Overdragon_ con ATK enorme.
+
+* _Limiter Removal_ raddoppia l’ATK per chiudere la partita in un colpo.
+
+#### 🧠 Supporto e difesa
+
+* _Shining Angel_, _Magician of Faith_, _Breaker_, _Trooper_, _Reaper_ offrono toolbox e vantaggio carte.
+
+* _Jinzo_ e _Zaborg_ danno pressione e rimozione.
+  
+  
+
+# [2008 Custom: Armed Dragon](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
+
+<img title="" src="www/Armed-Dragon.png" alt="Armed-Dragon" width="100" height="146" data-align="inline">
+
+### 🔍 Strategia
+
+#### 🔼 Evoluzione LV
+
+* _Masked Dragon_ cerca _LV3_, che può evolvere in _LV5_ se distrugge un mostro.
+
+* _LV5_ evolve in _LV7_, poi in _LV10_ con _Level Up!_ o in Standby Phase.
+
+* _Armed Dragon LV10_ può distruggere tutti i mostri avversari scartando 1 carta: effetto devastante.
+
+#### 🕷️ Dark Armed Setup
+
+* _Grepher_, _Trooper_, _Faith_, _Sangan_ aiutano a riempire il cimitero.
+
+* Mantieni **esattamente 3 OSCURITÀ** per evocare _Dark Armed Dragon_.
+
+* DAD rimuove OSCURITÀ per distruggere carte sul campo: controllo totale.
+
+#### ♻️ Turbo e difesa
+
+* _Allure_, _Pot of Greed_, _Graceful Charity_, _Card Destruction_ = draw engine.
+
+* _Phoenix Wing_, _Mirror Force_, _Torrential_ = protezione e rimozione.
+
+* _Return from the Different Dimension_ = OTK finale con DAD e LV10.
+
+
