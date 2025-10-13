@@ -61,22 +61,10 @@ Sono stati considerati tutti i deck pubblicati in Italia dal 2002 a maggio 2008 
 
 * _Swords_, _Draining Shield_, _Spirit Reaper_, _Mirror Force_ ti aiutano a resistere.
 * _Reflect Bounder_ punisce gli attacchi avversari.
-  
-  
-
-# [2003 Starter: Joey](https://duelingnexus.com/editor/7f75e333a60a1eecb0b555fdcea72a3a)
-
-<img title="" src="www/Red-Eyes.png" alt="Red-Eyes" width="100" height="146">
 
 
 
-# [2003 Starter: Pegasus](https://duelingnexus.com/editor/239abb0ff17965d4fdfb45f70ecb2ecd)
-
-<img title="" src="www/Relinquished.png" alt="Relinquished" width="100" height="146">
-
-
-
-# [2003 Custom: Great Moth](https://duelingnexus.com/editor/632dbdde6f1be16b87d944aac7ddc458)
+# [2003 Custom: Moth](https://duelingnexus.com/editor/632dbdde6f1be16b87d944aac7ddc458)
 
 <img title="" src="www/Moth.png" alt="loading-ag-2787" width="100" height="146">
 
@@ -103,6 +91,18 @@ Sono stati considerati tutti i deck pubblicati in Italia dal 2002 a maggio 2008 
 * _Pot of Greed_, _Graceful Charity_, _Morphing Jar_ = draw engine.
 
 * _Breaker_, _Phoenix Wing_, _Mirror Force_, _Torrential_ = controllo.
+
+
+
+# [2003 Starter: Joey](https://duelingnexus.com/editor/7f75e333a60a1eecb0b555fdcea72a3a)
+
+<img title="" src="www/Red-Eyes.png" alt="Red-Eyes" width="100" height="146">
+
+
+
+# [2003 Starter: Pegasus](https://duelingnexus.com/editor/239abb0ff17965d4fdfb45f70ecb2ecd)
+
+<img title="" src="www/Relinquished.png" alt="Relinquished" width="100" height="146">
 
 
 
