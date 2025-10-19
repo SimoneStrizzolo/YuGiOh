@@ -1,6 +1,10 @@
 # Lista Deck
 
-Sono stati considerati tutti i deck pubblicati in Italia dal 2002 a maggio 2008 quindi gli *Starter* (deck semplici dedicati ad un personaggio dell'anime) e gli *Structure* (deck provvisti di strategie pre-configurate). Sono stati poi considerati alcuni deck custom, creati da Copilot, che si rifanno ai deck più famosi dell'epoca.
+- ***Tutti*** i deck fino a maggio 2008.
+- *Starter*: deck usciti in Italia dedicati ad un personaggio dell'anime.
+- *Structure*: deck usciti in Italia dedicati ad un *archetipo*.
+- *Custom*: deck personalizzati e testati.
+- *WIP* (work in progress): non ancora testati.
 
 # [2008 Custom: Elementar HERO](https://duelingnexus.com/editor/b51387e437bb2d64fd132f15e8e6acfe)
 
@@ -16,7 +20,7 @@ Lista fusioni: [cliccare qui](www/HERO.png).
 
 <img title="" src="www/Sillva.png" alt="loading-ag-3264" width="100" height="146" data-align="inline">
 
-# [2008 WIP: Armed Dragon](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
+# [2008 Custom: Armed Dragon](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
 
 <img title="" src="www/Armed-Dragon.png" alt="Armed-Dragon" width="100" height="146" data-align="inline">
 
