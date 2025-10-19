@@ -6,7 +6,7 @@ Sono stati considerati tutti i deck pubblicati in Italia dal 2002 a maggio 2008 
 
 <img title="" src="www/Elemental.png" alt="Elemental" width="100" height="146" data-align="inline">
 
-Lista fusioni: [cliccare qui](www/HERO.html).
+Lista fusioni: [cliccare qui](www/HERO.png).
 
 # [2008 Custom: Cyber Dragon](https://duelingnexus.com/editor/c5363858df4dfa9755fa01c646514cae)
 
