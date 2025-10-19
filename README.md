@@ -10,7 +10,7 @@ Sono stati considerati tutti i deck pubblicati in Italia dal 2002 a maggio 2008 
 
 <img title="" src="www/Cyber-End.png" alt="Cyber-End" width="100" height="146" data-align="inline">
 
-# [2008 Custom: Dark World](https://duelingnexus.com/editor/fa7ac3b4df0fc090011cb6bed5377070)
+# [2008 Custom: Dark World](https://duelingnexus.com/editor/bfc62a1497e31dc3b67688c323297a1c)
 
 <img title="" src="www/Sillva.png" alt="loading-ag-3264" width="100" height="146" data-align="inline">
 
