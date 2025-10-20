@@ -1,8 +1,8 @@
 # Lista Deck
 
 - ***Tutti*** i deck fino a maggio 2008.
-- *Starter*: deck usciti in Italia dedicati ad un personaggio dell'anime.
-- *Structure*: deck usciti in Italia dedicati ad un *archetipo*.
+- *Starter*: usciti in Italia dedicati ad un personaggio dell'anime.
+- *Structure*: usciti in Italia dedicati ad un *archetipo*.
 - *Custom*: deck personalizzati e testati.
 - *WIP* (work in progress): non ancora testati.
 
@@ -36,7 +36,7 @@ Lista fusioni: [cliccare qui](www/HERO.png).
 
 <img title="" src="www/Destiny.png" alt="Destiny" width="100" height="146" data-align="inline">
 
-# [2007 WIP: Rise of the Dragon Lords](https://duelingnexus.com/editor/9f2125283f1eedfc0155c1109940e447)
+# [2007 Structure: Rise of the Dragon Lords](https://duelingnexus.com/editor/9f2125283f1eedfc0155c1109940e447)
 
 <img title="" src="www/Felgrand.png" alt="loading-ag-2092" width="100" height="146" data-align="inline">
 
