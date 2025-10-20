@@ -24,7 +24,7 @@ Lista fusioni: [cliccare qui](www/HERO.png).
 
 <img title="" src="www/Armed-Dragon.png" alt="Armed-Dragon" width="100" height="146" data-align="inline">
 
-# [2008 WIP: The Dark Emperor](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
+# [2008 Structure: The Dark Emperor](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
 
 <img title="" src="www/Monarch.png" alt="Monarch" width="100" height="146" data-align="inline">
 
