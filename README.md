@@ -1,121 +1,125 @@
-# Lista Deck
+Lista Deck
+========================================
 
 Tutti i deck dal 2002 al 2008.
-#Pro
+
+Pro
+========================================
 
 Personalizzati e testati. Ci vuole un po' di esperienza.
 
 ### [Elementar HERO](https://duelingnexus.com/editor/b51387e437bb2d64fd132f15e8e6acfe)
 
-<img title="" src="www/Elemental.png" alt="Elemental" width="100" height="146" data-align="inline">
+[<img src="www/Elemental.png">](https://duelingnexus.com/editor/b51387e437bb2d64fd132f15e8e6acfe)
 
 Lista fusioni: [cliccare qui](www/HERO.png).
 
 ### [Cyber Dragon](https://duelingnexus.com/editor/c5363858df4dfa9755fa01c646514cae)
 
-[<img title="" src="www/Cyber-End.png" alt="Cyber-End" width="100" height="146" data-align="inline">](https://duelingnexus.com/editor/c5363858df4dfa9755fa01c646514cae)
+[<img src="www/Cyber-End.png">](https://duelingnexus.com/editor/c5363858df4dfa9755fa01c646514cae)
 
 ### [Dark World](https://duelingnexus.com/editor/bfc62a1497e31dc3b67688c323297a1c)
 
-<img title="" src="www/Sillva.png" alt="loading-ag-3264" width="100" height="146" data-align="inline">
+[<img src="www/Sillva.png">](https://duelingnexus.com/editor/bfc62a1497e31dc3b67688c323297a1c)
 
 ### [Armed Dragon](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
 
-<img title="" src="www/Armed-Dragon.png" alt="Armed-Dragon" width="100" height="146" data-align="inline">
+[<img src="www/Armed-Dragon.png">](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
 
 Structure
 ========================================
 
 Deck ufficiali usciti in Italia. Pronti all'uso.
 
-### [2005 Structure: Zombie Madness](https://duelingnexus.com/editor/a5ffad663866ad2892882b8a8aedac1c)
+### [2005 Dragon's Roar](https://duelingnexus.com/editor/18effad1bd245365bc929344201bbbeb)
 
-<img title="Vampire" src="www/Vampire.png" alt="Vampire" width="100" height="146">
+[<img src="www/Red-Eyes-2.png">](https://duelingnexus.com/editor/18effad1bd245365bc929344201bbbeb)
 
-### [2005 Structure: Warrior's Triumph](https://duelingnexus.com/editor/bfaa74c0ff87ecf4d757bfe64681ae0e)
+### [2005 Zombie Madness](https://duelingnexus.com/editor/a5ffad663866ad2892882b8a8aedac1c)
 
-<img title="Gilfrod" src="www/Gilford.png" alt="Gilfrod" width="100" height="146">
+[<img src="www/Vampire.png">](https://duelingnexus.com/editor/a5ffad663866ad2892882b8a8aedac1c)
 
-### [2005 Structure: Fury From The Deep](https://duelingnexus.com/editor/433a73435d72736f840c890e6fb246ab)
+### [2005 Blaze of Destruction](https://duelingnexus.com/editor/a30d1248e4fc76e5396ad501e207dc80)
 
-<img title="" src="www/Ocean-Dragon.png" alt="Ocean-Dragon" width="100" height="146">
+[<img src="www/Infernal-Flame.png">](https://duelingnexus.com/editor/a30d1248e4fc76e5396ad501e207dc80)
 
-### [2005 Structure: Dragon's Roar](https://duelingnexus.com/editor/18effad1bd245365bc929344201bbbeb)
+### [2005 Fury From The Deep](https://duelingnexus.com/editor/433a73435d72736f840c890e6fb246ab)
 
-<img title="" src="www/Red-Eyes-2.png" alt="Red-Eyes" width="100" height="146">
+[<img src="www/Ocean-Dragon.png">](https://duelingnexus.com/editor/433a73435d72736f840c890e6fb246ab)
 
-### [2005 Structure: Blaze of Destruction](https://duelingnexus.com/editor/a30d1248e4fc76e5396ad501e207dc80)
+### [2005 Warrior's Triumph](https://duelingnexus.com/editor/bfaa74c0ff87ecf4d757bfe64681ae0e)
 
-<img title="" src="www/Infernal-Flame.png" alt="Infernal" width="100" height="146">
+[<img src="www/Gilford.png">](https://duelingnexus.com/editor/bfaa74c0ff87ecf4d757bfe64681ae0e)
 
-### [2006 Structure: Spellcaster's Judgment](https://duelingnexus.com/editor/8731b9b86534f64f66e71ec286643dbf)
+### [2006 Spellcaster's Judgment](https://duelingnexus.com/editor/8731b9b86534f64f66e71ec286643dbf)
 
-<img title="" src="www/Dark.png" alt="Dark" width="100" height="146" data-align="inline">
+[<img src="www/Dark.png">](https://duelingnexus.com/editor/8731b9b86534f64f66e71ec286643dbf)
 
-### [2006 Structure: Lord of the Storm](https://duelingnexus.com/editor/8b665593661b866d0243766a5c0fce3e)
+### [2006 Invincible Fortress](https://duelingnexus.com/editor/eefdf90802477c72185880ef898f1128)
 
-<img title="" src="www/Harpie.png" alt="Harpie" width="100" height="146" data-align="inline">
+[<img src="www/Exxod.png">](https://duelingnexus.com/editor/eefdf90802477c72185880ef898f1128)
 
-### [2006 Structure: Invincible Fortress](https://duelingnexus.com/editor/eefdf90802477c72185880ef898f1128)
+### [2006 Lord of the Storm](https://duelingnexus.com/editor/8b665593661b866d0243766a5c0fce3e)
 
-<img title="" src="www/Exxod.png" alt="Exxod" width="100" height="146" data-align="inline">
+[<img src="www/Harpie.png">](https://duelingnexus.com/editor/8b665593661b866d0243766a5c0fce3e)
 
-### [2006 Structure: Dinosaurs' Rage](https://duelingnexus.com/editor/70a1bbeb5f56f4506ffcbf8445955fb0)
+### [2006 Dinosaurs' Rage](https://duelingnexus.com/editor/70a1bbeb5f56f4506ffcbf8445955fb0)
 
-<img title="" src="www/Tyranno.png" alt="Tyranno" width="100" height="146">
+[<img src="www/Tyranno.png">](https://duelingnexus.com/editor/70a1bbeb5f56f4506ffcbf8445955fb0)
 
-### [2007 Structure: Machine Re-Volt](https://duelingnexus.com/editor/651fa12da2be0a417a25ae3c60389d4b)
+### [2007 Machine Re-Volt](https://duelingnexus.com/editor/651fa12da2be0a417a25ae3c60389d4b)
 
-<img title="" src="www/Ancient-Gear.png" alt="Ancient-Gear" width="100" height="146" data-align="inline">
+[<img src="www/Ancient-Gear.png">](https://duelingnexus.com/editor/651fa12da2be0a417a25ae3c60389d4b)
 
-### [2007 Structure: Rise of the Dragon Lords](https://duelingnexus.com/editor/9f2125283f1eedfc0155c1109940e447)
+### [2007 Rise of the Dragon Lords](https://duelingnexus.com/editor/9f2125283f1eedfc0155c1109940e447)
 
-<img title="" src="www/Felgrand.png" alt="loading-ag-2092" width="100" height="146" data-align="inline">
+[<img src="www/Felgrand.png">](https://duelingnexus.com/editor/9f2125283f1eedfc0155c1109940e447)
 
-### [2008 Structure: The Dark Emperor](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
+### [2008 The Dark Emperor](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
 
-<img title="" src="www/Monarch.png" alt="Monarch" width="100" height="146" data-align="inline">
+[<img src="www/Monarch.png">](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
+
 
 Starter
 =======================================
 
 Deck ufficiali usciti in Italia e dedicati ad un personaggio dell'anime. Per neotifi.
 
-### [2002 Starter: Yugi](https://duelingnexus.com/editor/dbd263b0d940eabfea33fd0af75c2cfd)
+### [2002 Yugi](https://duelingnexus.com/editor/dbd263b0d940eabfea33fd0af75c2cfd)
 
-<img title="" src="www/Dark-Magician.png" alt="Dark-Magician" width="100" height="146">
+[<img src="www/Dark-Magician.png">](https://duelingnexus.com/editor/dbd263b0d940eabfea33fd0af75c2cfd)
 
-### [2002 Starter: Kaiba](https://duelingnexus.com/editor/6234543add2eed631d9ce23530fa830f)
+### [2002 Kaiba](https://duelingnexus.com/editor/6234543add2eed631d9ce23530fa830f)
 
-<img title="" src="www/Blue-Eyes.png" alt="Blue-Eyes" width="100" height="146">
+[<img src="www/Blue-Eyes.png">](https://duelingnexus.com/editor/6234543add2eed631d9ce23530fa830f)
 
-### [2003 Starter: Joey](https://duelingnexus.com/editor/7f75e333a60a1eecb0b555fdcea72a3a)
+### [2003 Joey](https://duelingnexus.com/editor/7f75e333a60a1eecb0b555fdcea72a3a)
 
-<img title="" src="www/Red-Eyes.png" alt="Red-Eyes" width="100" height="146">
+[<img src="www/Red-Eyes.png">](https://duelingnexus.com/editor/7f75e333a60a1eecb0b555fdcea72a3a)
 
-### [2003 Starter: Pegasus](https://duelingnexus.com/editor/239abb0ff17965d4fdfb45f70ecb2ecd)
+### [2003 Pegasus](https://duelingnexus.com/editor/239abb0ff17965d4fdfb45f70ecb2ecd)
 
-<img title="" src="www/Relinquished.png" alt="Relinquished" width="100" height="146">
+[<img src="www/Relinquished.png">](https://duelingnexus.com/editor/239abb0ff17965d4fdfb45f70ecb2ecd)
 
-### [2004 Starter: Yugi Evolution](https://duelingnexus.com/editor/2d44f5c60560dfbdde0a5c06fbe3a158)
+### [2004 Yugi Evolution](https://duelingnexus.com/editor/2d44f5c60560dfbdde0a5c06fbe3a158)
 
-<img title="" src="www/Black-Luster-Soldier.png" alt="Black-Luster-Soldier" width="100" height="146">
+[<img src="www/Black-Luster-Soldier.png">](https://duelingnexus.com/editor/2d44f5c60560dfbdde0a5c06fbe3a158)
 
-### [2004 Starter: Kaiba Evolution](https://duelingnexus.com/editor/095460c46c9ec4ba1e65e8a1bbb00372)
+### [2004 Kaiba Evolution](https://duelingnexus.com/editor/095460c46c9ec4ba1e65e8a1bbb00372)
 
-<img title="" src="www/Blue-Eyes-2.png" alt="Blue-Eyes-2" width="100" height="146">
+[<img src="www/Blue-Eyes-2.png">](https://duelingnexus.com/editor/095460c46c9ec4ba1e65e8a1bbb00372)
 
-### [2006 Starter: Starter Deck](https://duelingnexus.com/editor/5ee8ae1ed352c0edb83972f34ac63403)
+### [2006 Starter Deck](https://duelingnexus.com/editor/5ee8ae1ed352c0edb83972f34ac63403)
 
-<img title="" src="www/Bladedge.png" alt="Bladedge" width="100" height="146">
+[<img src="www/Bladedge.png">](https://duelingnexus.com/editor/5ee8ae1ed352c0edb83972f34ac63403)
 
-### [2007 Starter: Jaden Yuki](https://duelingnexus.com/editor/1c851da6fb815e3ace6fcf3a8f6ed8e7)
+### [2007 Jaden Yuki](https://duelingnexus.com/editor/1c851da6fb815e3ace6fcf3a8f6ed8e7)
 
-<img title="" src="www/Necroshade.png" alt="Necroshade" width="100" height="146" data-align="inline">
+[<img src="www/Necroshade.png">](https://duelingnexus.com/editor/1c851da6fb815e3ace6fcf3a8f6ed8e7)
 
-### [2007 Starter: Syrus Truesdale](https://duelingnexus.com/editor/a38721fa2f0f1914504ddb3b03d2f6cb)
+### [2007 Syrus Truesdale](https://duelingnexus.com/editor/a38721fa2f0f1914504ddb3b03d2f6cb)
 
-<img title="" src="www/Expressroid.png" alt="Expressroid" width="100" height="146" data-align="inline">
+[<img src="www/Expressroid.png">](https://duelingnexus.com/editor/a38721fa2f0f1914504ddb3b03d2f6cb)
 
 Work in Progress
 =======================================
