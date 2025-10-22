@@ -1,8 +1,8 @@
 # Lista Deck
-Tutti i deck dal 2002 al 2008.
 
-Pro
-========================================
+Tutti i deck dal 2002 al 2008.
+#Pro
+
 Personalizzati e testati. Ci vuole un po' di esperienza.
 
 ### [Elementar HERO](https://duelingnexus.com/editor/b51387e437bb2d64fd132f15e8e6acfe)
@@ -13,7 +13,7 @@ Lista fusioni: [cliccare qui](www/HERO.png).
 
 ### [Cyber Dragon](https://duelingnexus.com/editor/c5363858df4dfa9755fa01c646514cae)
 
-<img title="" src="www/Cyber-End.png" alt="Cyber-End" width="100" height="146" data-align="inline">
+[<img title="" src="www/Cyber-End.png" alt="Cyber-End" width="100" height="146" data-align="inline">](https://duelingnexus.com/editor/c5363858df4dfa9755fa01c646514cae)
 
 ### [Dark World](https://duelingnexus.com/editor/bfc62a1497e31dc3b67688c323297a1c)
 
@@ -23,8 +23,9 @@ Lista fusioni: [cliccare qui](www/HERO.png).
 
 <img title="" src="www/Armed-Dragon.png" alt="Armed-Dragon" width="100" height="146" data-align="inline">
 
-Structure 
+Structure
 ========================================
+
 Deck ufficiali usciti in Italia. Pronti all'uso.
 
 ### [2005 Structure: Zombie Madness](https://duelingnexus.com/editor/a5ffad663866ad2892882b8a8aedac1c)
@@ -77,6 +78,7 @@ Deck ufficiali usciti in Italia. Pronti all'uso.
 
 Starter
 =======================================
+
 Deck ufficiali usciti in Italia e dedicati ad un personaggio dell'anime. Per neotifi.
 
 ### [2002 Starter: Yugi](https://duelingnexus.com/editor/dbd263b0d940eabfea33fd0af75c2cfd)
@@ -117,6 +119,7 @@ Deck ufficiali usciti in Italia e dedicati ad un personaggio dell'anime. Per neo
 
 Work in Progress
 =======================================
+
 Da ottimizzare e testare.
 
 ### [Six Samurai](https://duelingnexus.com/editor/8a29d7eff1fd8cea5cb3328d6ca366ab)
