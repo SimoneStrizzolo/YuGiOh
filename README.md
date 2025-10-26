@@ -78,6 +78,7 @@ Deck ufficiali usciti in Italia. Pronti all'uso.
 ### [2008 The Dark Emperor](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
 
 [<img src="www/Monarch.png">](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
+
 Starter
 =======================================
 
@@ -118,6 +119,7 @@ Deck ufficiali usciti in Italia e dedicati ad un personaggio dell'anime. Per neo
 ### [2007 Syrus Truesdale](https://duelingnexus.com/editor/a38721fa2f0f1914504ddb3b03d2f6cb)
 
 [<img src="www/Expressroid.png">](https://duelingnexus.com/editor/a38721fa2f0f1914504ddb3b03d2f6cb)
+
 Work in Progress
 =======================================
 
