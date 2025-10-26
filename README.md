@@ -24,6 +24,7 @@ Lista fusioni: [cliccare qui](www/HERO.png).
 ### [Armed Dragon](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
 
 [<img src="www/Armed-Dragon.png">](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
+
 Structure
 ========================================
 
