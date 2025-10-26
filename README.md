@@ -2,7 +2,6 @@ Lista Deck
 ========================================
 
 Tutti i deck dal 2002 al 2008.
-
 Pro
 ========================================
 
@@ -25,7 +24,6 @@ Lista fusioni: [cliccare qui](www/HERO.png).
 ### [Armed Dragon](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
 
 [<img src="www/Armed-Dragon.png">](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
-
 Structure
 ========================================
 
@@ -59,6 +57,8 @@ Deck ufficiali usciti in Italia. Pronti all'uso.
 
 [<img src="www/Exxod.png">](https://duelingnexus.com/editor/eefdf90802477c72185880ef898f1128)
 
+[Combo](www/ExxodRules.png) ed [espansioni](www/ExxodExtra.png).
+
 ### [2006 Lord of the Storm](https://duelingnexus.com/editor/8b665593661b866d0243766a5c0fce3e)
 
 [<img src="www/Harpie.png">](https://duelingnexus.com/editor/8b665593661b866d0243766a5c0fce3e)
@@ -78,8 +78,6 @@ Deck ufficiali usciti in Italia. Pronti all'uso.
 ### [2008 The Dark Emperor](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
 
 [<img src="www/Monarch.png">](https://duelingnexus.com/editor/c631dca13280cd8e54c7adbcab04ce99)
-
-
 Starter
 =======================================
 
@@ -120,7 +118,6 @@ Deck ufficiali usciti in Italia e dedicati ad un personaggio dell'anime. Per neo
 ### [2007 Syrus Truesdale](https://duelingnexus.com/editor/a38721fa2f0f1914504ddb3b03d2f6cb)
 
 [<img src="www/Expressroid.png">](https://duelingnexus.com/editor/a38721fa2f0f1914504ddb3b03d2f6cb)
-
 Work in Progress
 =======================================
 
