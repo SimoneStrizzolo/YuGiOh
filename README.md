@@ -25,6 +25,10 @@ Lista fusioni: [cliccare qui](www/HERO.png).
 
 [<img src="www/Armed-Dragon.png">](https://duelingnexus.com/editor/da4d00eb863ebf777710ea83845e6d48)
 
+### [Six Samurai](https://duelingnexus.com/editor/8a29d7eff1fd8cea5cb3328d6ca366ab)
+
+[<img src="www/Six-Samurai.png">](https://duelingnexus.com/editor/8a29d7eff1fd8cea5cb3328d6ca366ab)
+
 Structure
 ========================================
 
@@ -125,10 +129,6 @@ Work in Progress
 =======================================
 
 Da ottimizzare e testare.
-
-### [Six Samurai](https://duelingnexus.com/editor/8a29d7eff1fd8cea5cb3328d6ca366ab)
-
-<img title="" src="www/Six-Samurai.png" alt="Six-Samurai" width="100" height="146" data-align="inline">
 
 ### [Destiny HERO](https://duelingnexus.com/editor/a8b91a37ca3d000836fae0f80999073b)
 
